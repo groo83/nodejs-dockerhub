@@ -28,4 +28,4 @@ jobs:
         file: ./Dockerfile
         push: true
         # docker hub registry name
-        tags: syohdev/nodejs-github-action:${{ env.CURRENT_TIME }}
+        tags: izit25/nodejs-github-action:${{ env.CURRENT_TIME }}
